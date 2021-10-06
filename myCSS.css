@@ -44,3 +44,7 @@ body {
 	height: 50px;
 	text-align: center;
 }
+
+p {
+	color:#37363D; /*remove*/
+}
