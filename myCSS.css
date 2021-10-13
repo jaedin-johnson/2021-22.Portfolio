@@ -15,7 +15,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #A3A3A3;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -41,7 +41,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #777777;
+	background: #BBBBBB;
 	margin: 0px;
 	float: left;
 	width: 100%;
