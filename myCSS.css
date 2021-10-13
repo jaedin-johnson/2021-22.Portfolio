@@ -49,10 +49,10 @@ body {
 	text-align: center;
 }
 a:link {
-     color: #00E6CF/*#C17E63*/;
+     color: #63C2B8/*#C17E63*/;
 }
 a:visited {
-     color: /*#00E6CF #C17E63*/;
+     color: /*#63C2B8 #C17E63*/;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
