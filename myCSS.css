@@ -3,12 +3,12 @@
 body {
 	margin: 0 auto;
 	font: 100%/1.4 Helvetica, sans-serif; /*Verdana, Arial,*/ 
-	background-color: #715250;
+	background-color: #715250; /**/
      	padding: 0;
-     	color: #000;
+     	color: #855451;
 }
 .homePage {
-	background: #715250;
+	background: #715250; /**/
 }
 .container {
 	width: 100%; /*968px*/
