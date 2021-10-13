@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* This is a comment! Text here will be ignored by the browser. */
+/**/
 body {
 	margin: 0 auto;
 	font: 100%/1.4 Helvetica, sans-serif; /*Verdana, Arial,*/ 
@@ -11,7 +11,7 @@ body {
 	background: #715250; 
 }
 .container {
-	width: 100%; /*968px*/
+	width: 100%;
 	margin: 0 auto;
 }
 .header {
