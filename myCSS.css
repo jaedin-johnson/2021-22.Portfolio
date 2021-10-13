@@ -48,12 +48,12 @@ body {
 	height: 50px;
 	text-align: center;
 }
-/*a:link {
-     color: #000000;
+a:link {
+     color: ##00E6CF;
 }
 a:visited {
-     color: #000;
+     color: #00998A;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
-}*/
+}
