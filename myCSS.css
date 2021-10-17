@@ -40,14 +40,6 @@ body {
 	width: 100%;
 	text-align: center;
 }
-.leftAlign {
-	background: #EEEEEE;
-	margin: 0 auto;
-	padding: 10;
-	float: left;
-	width: 100%;
-	text-align: left;
-}
 .footer {
 	background: #BBBBBB;
 	margin: 0px;
