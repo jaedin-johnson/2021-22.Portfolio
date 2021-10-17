@@ -35,10 +35,9 @@ body {
 }
 .content {
 	background: #EEEEEE;
-	margin: 0 auto;
+	margin: 0px;
 	float: left;
 	width: 100%;
-	height: 400px;
 	text-align: center;
 }
 .footer {
