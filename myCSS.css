@@ -42,7 +42,7 @@ body {
 }
 .leftAlign {
 	background: #EEEEEE;
-	margin: 0 auto;
+	margin: 10px;
 	float: left;
 	width: 100%;
 	text-align: left;
